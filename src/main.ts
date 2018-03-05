@@ -1,3 +1,1 @@
-import {sayHello} from './greet';
-
-console.log(sayHello("SeanyD"));
+console.log("Hello, Typescript");
